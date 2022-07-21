@@ -1,1 +1,1 @@
-
+Final Project for CP468. This Project aims to analyze a dataset and do two things. 1) Show different relationships between different features and 2) determine whether or not we can predict whether or not a patient has heart disease or not. This program will also determine which Machine Learning Model is the best for this particular set. 
